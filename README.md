@@ -4,10 +4,10 @@ Full-Stack Developer | MERN Stack | AI Applications
 
 I am a Computer Science student at **JSS Academy of Technical Education, Bangalore** with experience building scalable web applications and AI-powered tools.
 
-- 🎓 B.E. Computer Science (Expected 2027)
-- 🏆 Hackathon Winner – Agentic AI Hackathon (NMIT)
-- 💻 Full Stack Developer Intern – NITK Surathkal
-- 🧠 Solved 250+ DSA problems (LeetCode / GFG)
+-  B.E. Computer Science (Expected 2027)
+-  Hackathon Winner – Agentic AI Hackathon (NMIT)
+-  Full Stack Developer Intern – NITK Surathkal
+-  Solved 250+ DSA problems (LeetCode / GFG)
 
 ---
 
